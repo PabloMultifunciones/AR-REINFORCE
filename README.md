@@ -12,7 +12,7 @@ La política suele ser una red neuronal que toma el estado como entrada y genera
 
 El objetivo de la política es maximizar la “Recompensa esperada”.
 
-Cada política genera la probabilidad de realizar una acción en cada estación del entorno.
+Cada política genera la probabilidad de realizar una acción en cada estado del entorno.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95035101/198893180-a697a20e-6759-4bcb-aba6-24278232f19a.png">
