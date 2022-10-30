@@ -1,5 +1,5 @@
 # AR-REINFORCE
-Algoritmo REINFORCE
+Aprendizaje Reforzado - Algoritmo REINFORCE
 ### Introduccion ###
 
 REINFORCE pertenece a una clase especial de algoritmos de aprendizaje por refuerzo llamados algoritmos de gradiente de política. Una implementación simple de este algoritmo implicaría crear una Política: un modelo que toma un estado como entrada y genera la probabilidad de realizar una acción como salida. Una política es esencialmente una guía u hoja de trucos para el agente que le dice qué acción tomar en cada estado. Luego, la política se itera y se ajusta ligeramente en cada paso hasta que obtengamos una política que resuelva el entorno.
